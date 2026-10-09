@@ -7,7 +7,8 @@
   <p>
     <a href="https://shippedit.me"><img src="https://img.shields.io/badge/visit-shippedit.me-f97316?style=for-the-badge" alt="Visit shippedit.me" /></a>
     <a href="https://shippedit.me/pricing"><img src="https://img.shields.io/badge/launch-free-22c55e?style=for-the-badge" alt="Launch free" /></a>
-    <a href="https://x.com/shippedit"><img src="https://img.shields.io/badge/follow-@shippedit-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
+    <a href="https://x.com/shippedit_me"><img src="https://img.shields.io/badge/follow-shippedit__me-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="Follow @shippedit_me on X" /></a>
+    <a href="https://t.me/shippedit_me"><img src="https://img.shields.io/badge/telegram-shippedit__me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join @shippedit_me on Telegram" /></a>
   </p>
 </div>
 
@@ -82,7 +83,10 @@ Not just another launch directory. shippedit is where you **launch once and keep
 
 ### 📊 GitHub stats
 
-<img src="https://raw.githubusercontent.com/shippedit-me/shippedit-me/main/.github/assets/stats-light.svg" alt="GitHub stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shippedit-me&show_icons=true&hide_border=true&bg_color=00000000&title_color=f97316&icon_color=58a6ff&text_color=e6edf3&cache_seconds=14400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shippedit-me&show_icons=true&hide_border=true&bg_color=00000000&title_color=f97316&icon_color=007aff&text_color=0f172a&cache_seconds=14400" alt="GitHub stats" />
+</picture>
 
 ---
 
@@ -104,12 +108,13 @@ Not just another launch directory. shippedit is where you **launch once and keep
 
 <div align="center">
   <a href="https://shippedit.me">
-    <img src="https://raw.githubusercontent.com/shippedit-me/shippedit-me/main/.github/assets/qr-shippedit.svg" alt="Scan to visit shippedit.me" width="150" />
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=309x309&data=https%3A%2F%2Fshippedit.me&bgcolor=f7f4ec&color=0f172a&margin=10" alt="Scan to visit shippedit.me" width="150" />
   </a>
   <p><i>Scan to visit →</i></p>
   <p>
     <a href="https://shippedit.me">shippedit.me</a> ·
-    <a href="https://x.com/shippedit">@shippedit</a> ·
+    <a href="https://x.com/shippedit_me">@shippedit_me</a> ·
+    <a href="https://t.me/shippedit_me">Telegram</a> ·
     <a href="https://shippedit.me/pricing">Pricing</a>
   </p>
   <p><sub>15 Pro seats at $9/m for solo founders — locked until you cancel.</sub></p>
